@@ -1,14 +1,14 @@
 # Hi, I'm Luz Edith Tobar 👋
 
-## I am a Front-End Developer with a passion for designing web pages with Javascript and REACT
+## I am a Front-End Developer with a passion for designing web pages with `Javascript` and `React`.
 
 - I'm always learning
 - I like to work in teams
-- Fun fact: I love to draw and sing
+- *Fun fact:* I love to draw and sing
 
 ## My personal objetive:
 
-Develop and implement high-demand resilient architectures from the Front-End side, using JavaScript, CSS, Sass-SCSS, HTML5 and REACT, where I can satisfy millions of users through my interfaces.
+I love to develop and implement high-demand resilient architectures from the Front-End side, using `JavaScript`, `CSS`, `Sass-SCSS`, `HTML5` and `REACT`, where I can satisfy millions of users through my interfaces.
 
 ### Connect with me:
 
