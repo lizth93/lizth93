@@ -4,7 +4,7 @@ I am a Front-End Developer with a passion for designing web pages with `Javascri
 
 ## My personal objetive:
 
-I love to develop and implement high-demand resilient architectures from the Front-End side, using `JavaScript`, `CSS`, `Sass-SCSS`, `HTML5` and `REACT`, where I can satisfy millions of users through my interfaces.
+Develop and implement high-demand resilient architectures from the Front-End side, using `JavaScript`, `CSS`, `Sass-SCSS`, `HTML5` and `REACT`, where I can satisfy millions of users through my interfaces.
 
 ### My self in few words:
 
