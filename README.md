@@ -2,7 +2,7 @@
 
 ## I am a Front-End Developer with a passion for designing web pages with Javascript and REACT
 
-- I always learning
+- I'm always learning
 - I like to work in teams
 - Fun fact: I love to draw and sing
 
