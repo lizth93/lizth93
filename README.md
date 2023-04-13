@@ -14,8 +14,8 @@ Develop and implement high-demand resilient architectures from the Front-End sid
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.linkedin.com/in/luz-edith-tobar-87818077/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.linkedin.com/in/luz-edith-tobar-87818077/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://app.netlify.com/sites/curriculum-luz-tobar/overview)
+[![website](./img/globe-dark.svg)](https://app.netlify.com/sites/curriculum-luz-tobar/overview)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luz-edith-tobar-87818077/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luz-edith-tobar-87818077/#gh-dark-mode-only)
